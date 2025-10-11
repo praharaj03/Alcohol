@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=AW1yfBKRMKc" target="_blank">
@@ -131,3 +132,6 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 <a href="https://jsm.dev/cocktail-nextjs" target="_blank">
   <img src="public/readme/jsmpro.png" alt="Project Banner">
 </a>
+=======
+# Alcohol
+>>>>>>> f487555d45c13369cd76125f7f0baa9fa96a7a4a
